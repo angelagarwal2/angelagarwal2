@@ -10,7 +10,6 @@
 - 🧠 Exploring **DSA**, **Web Development**, and **AI/ML**
 - 🔧 Currently working on enhancing my tech profiles and building real-world projects
 - 📌 Passionate about problem solving, hackathons, and open source
-- 🌐 Let’s connect on [LinkedIn](https://www.linkedin.com/in/angel-agarwal-97794432a/)
 - 🛠️ Skilled in Java, C++, HTML, CSS, and learning JS frameworks
 - ⚡ Fun fact: I love turning ideas into code and clean designs!
     
