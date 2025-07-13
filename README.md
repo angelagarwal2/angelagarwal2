@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelagarwal2&show_icons=true&theme=nightowl" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelagarwal2&show_icons=true&theme=nightowl" height="140px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelagarwal2&layout=compact&theme=nightowl" height="160px"/>
 </p>
 
