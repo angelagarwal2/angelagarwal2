@@ -13,10 +13,10 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 <h2>🛠️ Tech Stack:</h2> 
 
 **Languages:**  
-`Java` &nbsp;&nbsp;•&nbsp;&nbsp; `C++` &nbsp;&nbsp;•&nbsp;&nbsp; `HTML` &nbsp;&nbsp;•&nbsp;&nbsp; `CSS` &nbsp;&nbsp;•&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;•&nbsp;&nbsp; `SwiftUI` &nbsp;&nbsp;•&nbsp;&nbsp; `Java`
+`Java` &nbsp;&nbsp;•&nbsp;&nbsp; `C++` &nbsp;&nbsp;•&nbsp;&nbsp; `C` &nbsp;&nbsp;•&nbsp;&nbsp; `HTML` &nbsp;&nbsp;•&nbsp;&nbsp; `CSS` &nbsp;&nbsp;•&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;•&nbsp;&nbsp; `SwiftUI` 
 
 **Tools:**  
-`Git` &nbsp;&nbsp;•&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;•&nbsp;&nbsp; `Visual Studio Code`
+`Git` &nbsp;&nbsp;•&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;•&nbsp;&nbsp; `Visual Studio Code` &nbsp;&nbsp;•&nbsp;&nbsp; `XCode`
 
 **Interests:**  
 `Web Development` &nbsp;&nbsp;•&nbsp;&nbsp; `AI/ML` &nbsp;&nbsp;•&nbsp;&nbsp; `Open Source` &nbsp;&nbsp;•&nbsp;&nbsp; `Hackathon Projects` &nbsp;&nbsp;•&nbsp;&nbsp; `Resume Tools` &nbsp;&nbsp;•&nbsp;&nbsp; `Problem Solving (DSA)`
