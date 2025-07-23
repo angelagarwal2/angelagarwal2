@@ -28,7 +28,6 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angelagarwal2&show_icons=true&theme=nightowl" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelagarwal2&layout=compact&theme=nightowl" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelagarwal2&theme=nightowl" width="500px">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelagarwal2&theme=nightowl&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
