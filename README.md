@@ -13,10 +13,10 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 <h2>🛠️ Tech Stack:</h2> 
 
 **Languages:**  
-`Java` &nbsp;&nbsp;•&nbsp;&nbsp; `C++` &nbsp;&nbsp;•&nbsp;&nbsp; `C` &nbsp;&nbsp;•&nbsp;&nbsp; `HTML` &nbsp;&nbsp;•&nbsp;&nbsp; `CSS` &nbsp;&nbsp;•&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;•&nbsp;&nbsp; `SwiftUI` 
+`Java` &nbsp;&nbsp;•&nbsp;&nbsp; `C++` &nbsp;&nbsp;•&nbsp;&nbsp; `C` &nbsp;&nbsp;•&nbsp;&nbsp; `HTML` &nbsp;&nbsp;•&nbsp;&nbsp; `CSS` &nbsp;&nbsp;•&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;•&nbsp;&nbsp; `React (Basic)` &nbsp;&nbsp;•&nbsp;&nbsp; `SwiftUI` 
 
 **Tools:**  
-`Git` &nbsp;&nbsp;•&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;•&nbsp;&nbsp; `Visual Studio Code` &nbsp;&nbsp;•&nbsp;&nbsp; `XCode`
+`Git` &nbsp;&nbsp;•&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;•&nbsp;&nbsp; `Visual Studio Code` &nbsp;&nbsp;•&nbsp;&nbsp; `XCode` &nbsp;&nbsp;•&nbsp;&nbsp; `Postman` &nbsp;&nbsp;•&nbsp;&nbsp; `Latex`
 
 **Interests:**  
 `Web Development` &nbsp;&nbsp;•&nbsp;&nbsp; `AI/ML` &nbsp;&nbsp;•&nbsp;&nbsp; `Open Source` &nbsp;&nbsp;•&nbsp;&nbsp; `Hackathon Projects` &nbsp;&nbsp;•&nbsp;&nbsp; `Resume Tools` &nbsp;&nbsp;•&nbsp;&nbsp; `Problem Solving (DSA)`
@@ -53,7 +53,7 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 <details>
   <summary>🏅 GSSoC Badges </summary>
   <br/>
-  <p align="left">
+  <p align="center">
     <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/Postman_API_Fundamentals_Student_Expert.png" width="130" alt="Postman GSSoC Badge" />
   </p>
 </details>
