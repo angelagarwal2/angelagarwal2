@@ -6,7 +6,7 @@
 ---
 
 <h2>✨ About Me</h2>
-I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web Development, and AI/ML. I'm passionate about problem solving, participating in hackathons, and contributing to open source. Skilled in Java, C++, HTML, CSS, and currently learning JavaScript frameworks, I enjoy building real-world projects while enhancing my tech profiles. I've also explored SwiftUI through a 30 Days Challenge. Fun fact: I love turning ideas into code and crafting clean, user-friendly designs!
+I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web Development, and AI/ML. I'm passionate about problem solving, participating in hackathons, and contributing to open source. Skilled in Java, C, C++, HTML, CSS, Javascript and currently learning React, I enjoy building real-world projects while enhancing my tech profiles. I've also explored SwiftUI through a 30 Days Challenge. Fun fact: I love turning ideas into code and crafting clean, user-friendly designs!
     
 ---
 
