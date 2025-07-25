@@ -50,6 +50,16 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 
 ---
 
+<details>
+  <summary>🏅 GSSoC Badges </summary>
+  <br/>
+  <p align="left">
+    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/Postman_API_Fundamentals_Student_Expert.png" width="130" alt="Postman GSSoC Badge" />
+  </p>
+</details>
+
+---
+
 <p align="center">
 "Fuelled by caffeine and curiosity ☕💻"
 </p>
