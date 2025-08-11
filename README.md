@@ -10,16 +10,37 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
     
 ---
 
-<h2>🛠️ Tech Stack:</h2> 
+<h2>🛠️ Tech Stack</h2> 
 
-**Languages:**  
-`Java` &nbsp;&nbsp;•&nbsp;&nbsp; `C++` &nbsp;&nbsp;•&nbsp;&nbsp; `C` &nbsp;&nbsp;•&nbsp;&nbsp; `HTML` &nbsp;&nbsp;•&nbsp;&nbsp; `CSS` &nbsp;&nbsp;•&nbsp;&nbsp; `JavaScript` &nbsp;&nbsp;•&nbsp;&nbsp; `React (Basic)` &nbsp;&nbsp;•&nbsp;&nbsp; `SwiftUI` 
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Tools:**  
-`Git` &nbsp;&nbsp;•&nbsp;&nbsp; `GitHub` &nbsp;&nbsp;•&nbsp;&nbsp; `Visual Studio Code` &nbsp;&nbsp;•&nbsp;&nbsp; `XCode` &nbsp;&nbsp;•&nbsp;&nbsp; `Postman` &nbsp;&nbsp;•&nbsp;&nbsp; `Latex`
+### 💻 Software Development
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 
-**Interests:**  
-`Web Development` &nbsp;&nbsp;•&nbsp;&nbsp; `AI/ML` &nbsp;&nbsp;•&nbsp;&nbsp; `Open Source` &nbsp;&nbsp;•&nbsp;&nbsp; `Hackathon Projects` &nbsp;&nbsp;•&nbsp;&nbsp; `Resume Tools` &nbsp;&nbsp;•&nbsp;&nbsp; `Problem Solving (DSA)`
+### 🧠 AI / ML & Problem Solving
+![AI/ML](https://img.shields.io/badge/AI%2FML-102230?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-007ACC?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🗄️ Databases & Query Languages
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💡 Interests
+`Web Development` • `AI/ML` • `Open Source` • `Hackathon Projects` • `Resume Tools` • `Problem Solving`
 
 
 ---
