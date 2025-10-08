@@ -38,6 +38,7 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 
 ### 🗄️ Databases & Query Languages
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 💡 Interests
 `Web Development` • `AI/ML` • `Open Source` • `Hackathon Projects` • `Resume Tools` • `Problem Solving`
