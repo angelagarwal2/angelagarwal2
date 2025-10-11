@@ -86,10 +86,9 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
   <summary>👾 Hacktoberfest </summary>
   <br/>
   <p align="center">
-    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont0.png" width="130" alt="contributor 0" />
-    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont1.png" width="130" alt="contributor 1" />
-    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont2.png" width="130" alt="contributor 2" />
-  </p>
+  [![@angelagarwal2's Holopin badges](https://holopin.me/angelagarwal2)](https://holopin.io/@angelagarwal2)
+</p>
+
 </details>
 
 ---
