@@ -86,8 +86,7 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
   <summary>👾 Hacktoberfest </summary>
   <br/>
   <p align="center">
-  [![An image of @angelagarwal2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angelagarwal2)](https://holopin.io/@angelagarwal2)
-
+  [![@angelagarwal2 Holopin board](https://holopin.io/api/user/board?user=angelagarwal2)]([https://holopin.io/@rphi](https://www.holopin.io/@angelagarwal2))
 </p>
 
 </details>
