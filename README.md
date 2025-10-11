@@ -82,11 +82,8 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 
 ---
 
-  <p>👾 Holopin Badges</p>
-  <br/>
-  [![An image of @angelagarwal2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angelagarwal2)](https://holopin.io/@angelagarwal2)
-
-
+  ### 👾 Holopin Badges
+[![Holopin badges](https://holopin.io/api/user/board?user=angelagarwal2)](https://holopin.io/@angelagarwal2)
 
 
 ---
