@@ -82,6 +82,18 @@ I'm a Computer Science undergraduate at JIIT Noida, currently exploring DSA, Web
 
 ---
 
+<details>
+  <summary>👾 Hacktoberfest </summary>
+  <br/>
+  <p align="center">
+    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont0.png" width="130" alt="contributor 0" />
+    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont1.png" width="130" alt="contributor 1" />
+    <img src="https://github.com/angelagarwal2/angelagarwal2/blob/main/hacktoberfest/cont2.png" width="130" alt="contributor 2" />
+  </p>
+</details>
+
+---
+
 <p align="center">
 "Fuelled by caffeine and curiosity ☕💻"
 </p>
